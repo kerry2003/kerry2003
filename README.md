@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**kerry2003/kerry2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Nzubechukwu Dominic Nwoke
 
-Here are some ideas to get you started:
+I'm a Computer Science student at COOU, passionate about Deep Learning and Natural Language Processing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests
+- Machine Learning & AI
+- TensorFlow, PyTorch
+- Open source contributions
+- Building TTS models (like UCHE!)
+
+## Projects
+- **UCHE-TTS**: Custom voice synthesis for Nigerian voices
+- **COOU GPA Tracker**: Python tool to track student GPA
+
+## Let's connect!
+- Email: nwokenzube@outlook.com
